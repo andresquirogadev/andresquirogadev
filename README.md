@@ -11,7 +11,7 @@ especially for developers, operators and support teams.
 
 ## Current Projects
 
-🧠 [Klip](https://github.com/andresquirogadev/Klip)
+🧠 [Klip](https://github.com/andresquirogadev/Klip) - Instant access to SQL snippets and clipboard content via a lightweight Windows background tool.
 
 ## Focus Areas
 - Developer productivity tools
