@@ -1,9 +1,12 @@
-# Andrés Quiroga
+# Hi, I'm Andrés
 
-Software Engineer focused on .NET, SQL Server, Telecom Systems & Automation.
+Software Engineer focused on building practical tooling
+for Windows, backend systems and operational automation.
 
-- Backend: .NET, SQL Server, Workers, WCF
-- Infrastructure: IIS, Windows Server, CI/CD
-- Telecom: SmartOLT, TR-069, provisioning systems
+- Developer productivity tools
+- Windows background services
+- .NET & SQL Server
+- Telecom and infrastructure systems
 
-Currently building internal platforms for telecom operators in Colombia.
+Currently building internal tooling to improve speed,
+reliability and operational workflows.
