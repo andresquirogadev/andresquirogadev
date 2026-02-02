@@ -16,6 +16,7 @@
 
 ## Current Projects
 
+- 📁 **[Wistry / Enterprise File Logistics](https://github.com/andresquirogadev/)** – A commercial SaaS solution to automate massive file operations over high-latency networks with local indexing and hardware-locked licensing.
 - 🧠 **[Klip](https://github.com/andresquirogadev/Klip)** – Instant access to frequently-used SQL snippets and clipboard content via a lightweight Windows background tool.
 
 ## Focus Areas
